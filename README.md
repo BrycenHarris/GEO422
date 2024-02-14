@@ -1,2 +1,2 @@
 # GEO422
-Repository for my GEO422 class assignments
+Repository for my GEO422 class assignments.
